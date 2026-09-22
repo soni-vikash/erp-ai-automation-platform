@@ -1,0 +1,64 @@
+# CTA and Follow-Up Assets
+
+## Primary CTA
+
+Want to know whether your ERP is ready for a queryable intelligence layer?
+
+Comment `READY` and we’ll send you the five-signal checklist.
+
+## Download-page CTA
+
+Your checklist is ready.
+
+If your score is 6 or higher, your team may be experiencing an ERP access problem rather than an ERP data problem.
+
+Book an ERP Readability Review to identify:
+
+- The questions consuming the most manual effort.
+- The departments and data sources involved.
+- The best first pilot use case.
+- The controls required for safe implementation.
+
+## Form fields
+
+- Name
+- Work email
+- Company
+- Role
+- Industry
+- ERP or finance system
+- Approximate reporting hours per week
+- Highest-scoring checklist signal
+- Biggest unanswered business question
+
+## Thank-you page
+
+Your ERP may already contain the answers your team needs.
+
+The next step is to identify the questions that consume the most reporting time and determine whether they can be answered safely from your existing data.
+
+## Email subject lines
+
+- Your ERP Readability Checklist
+- How readable is your ERP?
+- Your ERP may not need replacing
+- Five signals your ERP has become a bottleneck
+
+## Email delivery copy
+
+Hi {{first_name}},
+
+Here is your ERP Readability Checklist.
+
+Use it to score five common signs that an ERP is creating reporting friction:
+
+- Spreadsheet dependency
+- Slow answers
+- Departmental silos
+- Late cost-overrun detection
+- Dependence on internal middlemen
+
+If your score is 6 or higher, reply with your score. We can help you identify the first reporting workflow worth improving.
+
+Best,
+{{sender_name}}
