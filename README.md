@@ -24,7 +24,3 @@ When finance and operations teams spend hours exporting, cleaning, joining, and 
 
 This checklist is educational. It is not a substitute for an ERP audit, security review, financial control review, or implementation plan.
 
-
-## Brand customization
-
-Replace the placeholder brand references with your company name, logo, colors, booking link, and contact details.
