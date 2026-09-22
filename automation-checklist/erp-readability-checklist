@@ -1,0 +1,210 @@
+# The 5-Signal ERP Readability Checklist
+
+## Is your ERP helping decisions—or hiding them?
+
+Your ERP may contain every invoice, timesheet, job cost, payroll record, and receivable.
+
+That does not necessarily mean your team can use the information quickly.
+
+Use this one-page checklist to identify whether your ERP has become a reporting bottleneck.
+
+Score each signal from 0 to 2:
+
+- 0 = Not a problem
+- 1 = Happens sometimes
+- 2 = Happens frequently
+
+---
+
+## Signal 1: Spreadsheet dependency
+
+Do employees regularly export ERP data into spreadsheets before leadership can use it?
+
+Examples:
+
+- Monthly reports require multiple exports.
+- Finance manually combines project, payroll, invoice, and timesheet data.
+- Different departments maintain separate “official” spreadsheets.
+- Leaders ask for spreadsheet versions of information already stored in the ERP.
+
+Score: 0  1  2
+
+---
+
+## Signal 2: Slow answers to simple questions
+
+Does it take more than one business day to answer questions such as:
+
+- Which projects are over budget?
+- What is our current gross margin by project?
+- Which invoices are overdue?
+- Where are labor costs increasing?
+- Which jobs are at risk of becoming unprofitable?
+
+Score: 0  1  2
+
+---
+
+## Signal 3: Department-by-department data silos
+
+Are important answers split across multiple modules or departments?
+
+Look for information spread across:
+
+- Payroll
+- Accounts payable
+- Accounts receivable
+- Job costing
+- Procurement
+- Timesheets
+- Project management
+- Inventory
+- Field operations
+- Financial reporting
+
+Score: 0  1  2
+
+---
+
+## Signal 4: Late detection of cost overruns
+
+Does the team usually discover project-cost problems during month-end reporting or after the damage has already compounded?
+
+Warning signs:
+
+- Budget variance is reviewed after the fact.
+- Project managers rely on manually prepared reports.
+- Labor and materials are analyzed separately.
+- Forecasts are updated infrequently.
+- No one can explain a margin change quickly.
+
+Score: 0  1  2
+
+---
+
+## Signal 5: Questions require a middleman
+
+Do leaders depend on finance, operations, or IT to retrieve basic business information?
+
+Examples:
+
+- “Can someone pull this report?”
+- “Can you check that project?”
+- “What happened to margin last month?”
+- “Can IT add this field?”
+- “Can finance send me the latest version?”
+
+Score: 0  1  2
+
+---
+
+# Your score
+
+Add your five scores.
+
+## 0–2: Low friction
+
+Your ERP is probably providing acceptable access to information.
+
+Focus on protecting data quality, documenting reporting logic, and identifying the questions that still require manual work.
+
+## 3–5: Moderate friction
+
+Your team is losing meaningful time to reporting workarounds.
+
+Start by documenting the most frequently requested questions and the steps required to answer them.
+
+## 6–8: High friction
+
+Your ERP may contain the information leadership needs, but access is becoming a business constraint.
+
+Prioritize a data-access review before replacing the underlying system.
+
+## 9–10: Critical friction
+
+Your team may be paying for an ERP and still operating through spreadsheets, manual reports, and internal ticket queues.
+
+The first step is not necessarily a replacement project. It may be a secure intelligence layer that makes existing data easier to query and act on.
+
+---
+
+# The first five questions to document
+
+Before changing your system, write down the five questions leaders ask most often.
+
+For each question, record:
+
+1. Who asks it?
+2. Which departments own the required data?
+3. Which ERP tables or reports contain the answer?
+4. How long does it take to produce the answer?
+5. How often is the question asked?
+6. What decision depends on the answer?
+7. What happens if the answer is late or wrong?
+
+## Example
+
+Question:
+
+> Which active projects are likely to finish below target margin?
+
+Required data:
+
+- Contract value
+- Approved change orders
+- Costs to date
+- Committed costs
+- Labor hours
+- Material costs
+- Forecast-to-complete
+- Invoiced amount
+- Collected amount
+
+Decision:
+
+> Whether to adjust scope, procurement, staffing, or project controls before the margin loss grows.
+
+---
+
+# What a practical ERP intelligence layer should include
+
+A useful layer should:
+
+- Use the existing ERP as the source of truth.
+- Respect existing business rules.
+- Map data across relevant departments.
+- Return answers tied to underlying transactions.
+- Preserve permissions and auditability.
+- Make uncertainty visible.
+- Allow users to ask questions in plain English.
+- Provide a path from answer to source records.
+- Avoid changing financial data without explicit authorization.
+- Be tested against known reports and historical outcomes.
+
+---
+
+# Readiness check
+
+Your organization may be ready for an ERP intelligence layer if:
+
+- The required data already exists.
+- The same questions are asked repeatedly.
+- Finance and operations spend significant time preparing reports.
+- Leaders need answers faster than the current reporting process allows.
+- The ERP cannot easily combine information across departments.
+- Replacing the ERP would be expensive, disruptive, or unnecessary.
+- Security, access control, and transaction traceability are non-negotiable.
+
+---
+
+# Final takeaway
+
+If your team spends hours pulling numbers that already exist, the problem may not be your ERP.
+
+The problem may be the distance between the data and the decision.
+
+Start with the five signals. Then identify the questions that create the most operational friction.
+
+## Next step
+
+Reply `READY` to request an ERP Readability Review.
