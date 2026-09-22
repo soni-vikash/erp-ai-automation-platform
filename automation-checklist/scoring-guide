@@ -1,0 +1,48 @@
+# ERP Readability Scoring Guide
+
+## Primary audience
+
+- CFOs
+- COOs
+- Project directors
+- Finance managers
+- Operations leaders
+- Construction business owners
+- ERP and digital-transformation leaders
+
+## Qualification indicators
+
+A strong prospect typically has:
+
+- More than 10 hours per week spent preparing reports.
+- Multiple departments contributing to recurring reports.
+- Repeated requests for project-margin or cost-variance answers.
+- A legacy ERP with valuable historical data.
+- No immediate appetite for full ERP replacement.
+- A need for permission-aware access to sensitive financial information.
+
+## Discovery questions
+
+1. Which reports require the most manual preparation?
+2. How many hours per week are spent exporting and reconciling data?
+3. Which questions take the longest to answer?
+4. Which decisions are delayed by reporting latency?
+5. Which ERP modules must be combined to answer those questions?
+6. What permissions must be respected?
+7. Which existing reports are considered authoritative?
+8. How would the team validate an AI-generated answer?
+9. What would a successful pilot accomplish in 30 days?
+10. Which department should own the first use case?
+
+## Recommended pilot scope
+
+Start with one department or decision area:
+
+- Project profitability
+- Accounts receivable
+- Job-cost variance
+- Payroll allocation
+- Invoice status
+- Purchase commitments
+
+Avoid beginning with “connect everything.” Begin with one high-value question set and measurable validation criteria.
